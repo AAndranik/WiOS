@@ -1,2 +1,2 @@
 # WiOS
-Debian-base operating system for WiCastrs
+Debian-based operating system for WiCastrs
